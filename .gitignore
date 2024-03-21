@@ -1,0 +1,2 @@
+# ignore all the .venv directory in project
+**/venv/**
